@@ -7,7 +7,12 @@ Dashboarder MultiDisciplinar para Auxiliar
 # Tecnologias Utilizadas 
 
  .HTML
+ 
  .CSS
+ 
  .JAVASCRIPT
+ 
  .GITHUB
+ 
  .GIT
+ 
